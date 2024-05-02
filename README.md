@@ -1,10 +1,7 @@
 # Frontend for Patient Management System
 
 ### Created for SGS (Non-profit Organization)
-
 The frontend mobile application for a clinic management solution developed with React Native.
-It includes a mobile app and backend server with APIs for non-profit medical clinics.
-Features: medication prescription, inventory management, appointment scheduling, and patient record access.
 
 ### Features:
 
