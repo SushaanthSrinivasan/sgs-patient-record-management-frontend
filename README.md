@@ -48,9 +48,13 @@ Prototyped in Figma and in the process of being recreated in React Native
 
 #### Pharmacists:
 
-| <img src="./ui-images/Search Patient Details - pharmacist.png" width="200"> | <img src="./ui-images/View and update threshold - pharmacist.png" width="200"> | <img src="./ui-images/Add Stock - pharmacist.png" width="200"> | <img src="./ui-images/View Stock - pharmacist.png" width="200"> |
-| :-------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-|                             **Search Patient**                              |                      **View and update Alarm Threshold**                       |                         **Add Stock**                          |                         **View Stock**                          |
+| <img src="./ui-images/Search Patient Details - pharmacist.png" width="200"> | <img src="./ui-images/View and update threshold - pharmacist.png" width="200"> | <img src="./ui-images/Add Stock - pharmacist.png" width="200"> |
+| :-------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :------------------------------------------------------------: |
+|                             **Search Patient**                              |                      **View and update Alarm Threshold**                       |                         **Add Stock**                          |
+
+| <img src="./ui-images/View Stock - pharmacist.png" width="200"> |
+| :-------------------------------------------------------------: |
+|                         **View Stock**                          |
 
 ### How to run:
 
